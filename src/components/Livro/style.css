@@ -1,0 +1,17 @@
+.center {
+    text-align: center;
+    grid-template-columns: repeat(3, 120px);
+}
+
+.Titulo {
+    color: crimson;
+    font-size: 60px;
+}
+
+.Autor {
+  font-size: 25px;
+}
+
+.Ano {
+    font-size: 20px;
+}
